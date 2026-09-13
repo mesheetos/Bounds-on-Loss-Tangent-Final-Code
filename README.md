@@ -44,10 +44,6 @@ Notebook uses:
 - NumPy
 - SciPy
 - Matplotlib
-- SymPy
-- CVXPY
-- Clarabel
-- Pillow
 
 ## Parameters
 
